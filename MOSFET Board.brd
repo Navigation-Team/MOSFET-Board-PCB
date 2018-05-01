@@ -202,6 +202,7 @@
 <text x="29.845" y="62.611" size="1.778" layer="21">6</text>
 <text x="29.845" y="65.151" size="1.778" layer="21">7</text>
 <text x="29.845" y="67.691" size="1.778" layer="21">8</text>
+<text x="55.88" y="99.06" size="1.778" layer="22" rot="MR0">Rev. 1</text>
 </plain>
 <libraries>
 <library name="custom">
