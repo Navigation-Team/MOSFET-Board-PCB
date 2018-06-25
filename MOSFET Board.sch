@@ -5399,7 +5399,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </sheet>
 </sheets>
 <errors>
-<approved hash="104,1,104.14,17.78,J1,V+,+12V,,,"/>
+<approved hash="104,1,144.78,27.94,J1,V+,VIN,,,"/>
 <approved hash="104,1,46.1419,66.1917,J2,V+,+12V,,,"/>
 <approved hash="104,1,46.1419,56.0317,J2,GND,OUT1,,,"/>
 <approved hash="104,1,66.04,48.26,J3,V+,+12V,,,"/>
@@ -5416,6 +5416,12 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <approved hash="104,1,45.72,-50.8,J8,GND,OUT7,,,"/>
 <approved hash="104,1,66.04,-58.42,J9,V+,+12V,,,"/>
 <approved hash="104,1,66.04,-68.58,J9,GND,OUT8,,,"/>
+<approved hash="104,1,96.52,63.5,U1,VOUT,+12V,,,"/>
+<approved hash="104,1,101.6,33.02,U1,GND1,GND,,,"/>
+<approved hash="104,1,101.6,63.5,U1,GND2,GND,,,"/>
+<approved hash="104,1,127,63.5,U$1,VOUT,+12V,,,"/>
+<approved hash="104,1,132.08,33.02,U$1,GND1,GND,,,"/>
+<approved hash="104,1,132.08,63.5,U$1,GND2,GND,,,"/>
 <approved hash="113,1,-89.1371,-7.39394,INPUT,,,,,"/>
 </errors>
 </schematic>
